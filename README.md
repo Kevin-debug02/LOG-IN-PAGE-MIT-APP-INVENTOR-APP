@@ -12,5 +12,4 @@ This is a sample of a basic login/signup page to an app. After signup, the infor
 4. You can also download the '.apk' file and test the functionality using you phone
 
 ##LICENCE
-MIT Licence# LOG-IN-PAGE-MIT-APP-INVENTOR-APP
-Demo of a basic login/signup page for mobile apps built on MIT APP
+MIT Licence# 
