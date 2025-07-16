@@ -15,4 +15,4 @@ This is a sample of a basic login/signup page to an app. After signup, the infor
 MIT Licence
 
 ## BLOCKS SCREENSHOT
-![Blocks](Blocks_Screenshot.png)
+![Blocks](Pictures/Blocks_Screenshot.png)
