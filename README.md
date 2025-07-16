@@ -7,7 +7,7 @@ This is a sample of a basic login/signup page to an app. After signup, the infor
 
 ## USAGE
 1. Go to [MIT APP INVENTOR site](https://ai2.appinventor.mit.edu/)
-2. Import the '.aia' file
+2. Go to projects<Import '.aia' file
 3. Test using MIT AI2 Companion
 4. You can also download the '.apk' file and test the functionality using you phone
 
